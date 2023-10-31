@@ -78,5 +78,20 @@
       "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate cumque numquam voluptate voluptatem, quod voluptas, voluptatum, quos quae nemo accusantium? Quisquam, quae. Quisquam, quae. Quisquam, quae."
     }
   ],
-  "cart": []
+  "cart": [
+    {
+      "id": 1,
+      "image": "/images/product-placeholder-image-1.png",
+      "title": "Product 1",
+      "price": 24.99,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate cumque numquam voluptate voluptatem, quod voluptas, voluptatum, quos quae nemo accusantium? Quisquam, quae. Quisquam, quae. Quisquam, quae."
+    },
+    {
+      "id": 2,
+      "image": "/images/product-placeholder-image-2.png",
+      "title": "Product 2",
+      "price": 50,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate cumque numquam voluptate voluptatem, quod voluptas, voluptatum, quos quae nemo accusantium? Quisquam, quae. Quisquam, quae. Quisquam, quae."
+    }
+  ]
 }

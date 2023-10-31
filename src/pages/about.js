@@ -6,9 +6,7 @@ import AboutUs from "@/components/AboutUs";
 const About = () => {
 	return (
 		<div>
-			<Header />
 			<AboutUs />
-			<Footer />
 		</div>
 	);
 };
